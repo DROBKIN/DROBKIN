@@ -1,0 +1,33 @@
+body {font-family: Verdana;}
+h1 {
+    font-weight: normal;
+    font-size: 72pt;
+	text-align: center;
+}
+p {
+    font-size: 14pt !important;
+}
+
+.picture {text-align: center;}
+p.greeting {font-size: 24pt;}
+.picture img {width: 85%;}
+.advertising {margin-left: 30pt;}
+
+
+div {
+	font-size: 12pt;
+}
+.advertising {margin-top: 5pt;}
+.advertising {margin-bottom: 5pt;}
+.bigger {font-size: 16pt;}
+table.pricelist th, table.pricelist td {
+	 border: grey thin solid;
+     padding: 4px;
+}	 
+table.catalog {border-collapse: collapse;}
+table.catalog td {
+	 border-top: black thin dotted;
+	 border-bottom: black thin dotted;
+	 padding: 10px;
+}
+table.catalog img {weight: 200px;}
